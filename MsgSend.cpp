@@ -5,7 +5,6 @@
 #include "MsgSend.h"
 #include <vector>
 #include <xstring>
-#include <cstring>
 
 #define MAX_LOADSTRING 100
 
